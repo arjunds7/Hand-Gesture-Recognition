@@ -1,5 +1,5 @@
 # Hand-Gesture-Recognition
-## CNN
+## CNN ## Neural Networks
 
 The algorithm develops a feature in a smart TV to replace ceratin functions of remote with hand gestures. The gestures are continuously monitored by a webcam mounted on the TV.
 
